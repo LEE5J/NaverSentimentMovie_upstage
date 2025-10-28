@@ -1,0 +1,10 @@
+jupyterlab==4.4.5
+matplotlib==3.10.5
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+torch==2.6.0
+transformers==4.55.0
+koreanize_matplotlib==0.1.1
+accelerate==1.6.0
